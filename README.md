@@ -2,7 +2,7 @@
 
 Desenvolvedor em formação, apaixonado por tecnologia e criação de interfaces modernas e funcionais.
 Atualmente cursando Análise e Desenvolvimento de Sistemas na UNISUAM — Bonsucesso, RJ.
-Focado no desenvolvimento, como base, com objetivo de evoluir para o desenvolvimento Mobile, criando aplicações intuitivas, eficientes e com ótima experiência para o usuário.
+Focado no desenvolvimento, com objetivo de evoluir para o desenvolvimento Mobile, criando aplicações intuitivas, eficientes e com ótima experiência para o usuário.
 
 ---
 
