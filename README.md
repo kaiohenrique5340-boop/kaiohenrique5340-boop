@@ -30,6 +30,7 @@ Foco Total ajuda usuários a reduzir distrações digitais, melhorar a concentra
 - 📲 Plataforma: Mobile (iOS & Android)
 - ⚙️ Stack: React Native, Expo
 - 🎯 Foco: Produtividade e bem-estar digital
+- 🚧 Em desenvolvimento
 
 ---
 
