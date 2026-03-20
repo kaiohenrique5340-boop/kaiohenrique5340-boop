@@ -1,6 +1,6 @@
 # Olá, eu sou o Kaio Henrique 👋
 
-Desenvolvedor Front-End apaixonado por tecnologia e interfaces modernas.  
+Desenvolvedor apaixonado por tecnologia e interfaces modernas.  
 Cursando **Análise e Desenvolvimento de Sistemas** na UNISUAM — Bonsucesso, RJ.  
 Focado em construir uma base sólida no Front-End, com planos de evoluir para o Back-End.
 
